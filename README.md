@@ -2,8 +2,8 @@
 #### Tg Channel：Https://t.me/HackRicken
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HackRicken)](https://github.com/HackRicken)
-![](https://visitor-badge.glitch.me/badge?page_id=ddgksf2013.ddgksf2013)  
-
+![](https://visitor-badge.glitch.me/badge?page_id=HackRicken.HackRicken)  
+HackRicken
 <!--
 **ddgksf2013/ddgksf2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
