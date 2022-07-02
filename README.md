@@ -1,5 +1,5 @@
 ### Hi 👋 Welcome to My Github Page !✨
-#### Tg Channel：Https://t.me/Yuio_c
+#### Tg Channel：https://t.me/Yuio_c
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HackRicken)](https://github.com/HackRicken)
 ![](https://visitor-badge.glitch.me/badge?page_id=HackRicken.HackRicken)  
